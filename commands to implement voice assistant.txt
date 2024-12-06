@@ -1,0 +1,35 @@
+The code implements a voice assistant with a range of commands that can perform the following tasks:
+
+General Commands:
+	1. Greet the user: Welcomes the user based on the time of day.
+	2. Tell the current time: Responds with the current time.
+	3. Tell today's date: Responds with the current date.
+Internet-based Commands:
+	4. Find IP address: Returns the user's public IP address.
+	5. Search on Wikipedia: Provides a summary of a specified topic.
+	6. Play a video on YouTube: Plays a specified video on YouTube.
+	7. Search on Google: Searches for a query on Google.
+Get the latest news: 
+	8. Fetches the top news headlines.
+Get weather information: 
+	9. Provides the weather report for a specified city.
+Send a WhatsApp message: 
+	10. Instantly sends a WhatsApp message (via pywhatkitcd ).
+Send an email: 
+	11. Sends an email to a specified address.
+Offline Commands:
+	12. Tell a joke: Responds with a random joke.
+	13. Give random advice: Provides a random piece of advice.
+	14. Perform calculations: Solves mathematical queries.
+Set reminders: 
+	15. Sets a reminder at a specified time.
+Open applications: 
+	16. Opens common applications like Notepad, Calculator, WhatsApp (web), YouTube, Spotify, and ChatGPT in a browser.
+Save notes: 
+	17. Saves user-provided notes to a file (notes.txt).
+System Interaction Commands:
+	18. Capture an image: Captures an image using the webcam and saves it as captured_image.jpg.
+Perform basic mathematical operations:
+	19. Responds to addition, subtraction, multiplication, and division queries.
+Exit Command:
+	20. Exit the assistant: Ends the program when the user says words like "exit," "stop," "bye," or "quit."

@@ -1,0 +1,11 @@
+requests
+Wikipedia
+webbrowser
+pywhatkit
+pyttsx3
+SpeechRecognition
+python-dotenv
+pyaudio
+opencv-python
+python-decouple
+smtplib
